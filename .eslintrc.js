@@ -6,6 +6,8 @@ module.exports = {
   extends: [
     'plugin:react/recommended',
     'airbnb',
+    'next',
+    'prettier'
   ],
   parserOptions: {
     ecmaFeatures: {
